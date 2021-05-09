@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "CashCoin",
+       "icon": "./assets/icon.png",
+       "version": "1.0.0",
+       "slug": "CashCoin",
+       "orientation": "portrait",
+       "sdkVersion": "40.0.0",
+       "android": {
+         "package": "com.cifcibaris24.CashCoin",
+         "versionCode": 1
+       }
+      }
+    }
